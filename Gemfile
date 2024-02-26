@@ -1,1 +1,1 @@
-gem 'jruby-rack', '0.9.7'
+gem 'jruby-rack', '1.1.22'
